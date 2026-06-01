@@ -20,4 +20,4 @@
    - [ ]  Thank all the Stargazers (people who have starred your repo).
 3. [ ] Settings > Social preview
    Now upload an image of your choice. Just make sure to maintain the required
-   dimensions of the image as mentioned on the page.
+   dimensions of the image as mentioned on the page (1280×640px for best display).
